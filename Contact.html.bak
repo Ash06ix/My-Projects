@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Contact us</title>
+	<link rel="stylesheet" href="Contact.css">
+</head>
+<body>
+	<div class="ashraf">Mouniy&Ash Elegant-Fashions</div>
+	<div class="nav-bar">
+		<ul>
+		<li><a href="pro.html">Home</a></li>
+		<li><a href="Products.html">Products</a></</li>
+		<li><a href="Gallery.html">Gallery</a></</li>
+		<li><a href="About.html">About</a></</li>
+		<u><li><a href="Contact.html">Contact</a></</li></u>
+		<li><a href="Order now.html">Order</a></</li>
+		</ul>
+	</div>
+	<div id="cream">
+	<p style="margin-top:-10px; text-align:center; font-family:elephant; font-size:50px; font-family:forte">CONTACT US</p>
+	<p style="font-size:25px; font-family:times new roman; margin-left:20px; font-family:forte">If you have any questions, please contact us on <u>(+255) 774-82-9221.</u>We would be happy to answer back to you and set up a meeting to answer all your questions about our company. We stand for your Elegance!
+	<div style="margin-top:30px; margin-left:50px"><input type="name" placeholder="First Name"style="height:25px; width:250px"></div>
+	<div style="margin-top:30px; margin-left:50px"><input type="name" placeholder="Last Name"style="height:25px; width:250px"></div>
+	<div style="margin-top:30px; margin-left:50px"><input type="email" placeholder="Email" style="height:25px; width:250px"></div>
+	<b><p style="font-size:15px; font-family:lucida bright; margin-left:50px; margin-top:15px">Please use a REAL Email Address so we can get back to you.</p></b>
+	<div style="margin-top:20px; margin-left:50px"><input type="comment" placeholder="Comment" style="height:85px; width:250px"></div>
+	<a href="ashrafkindy@gmail.com" target="_blank"><div style="margin-top:30px; margin-left:50px"><input type="submit" value="Submit" style="height:38px; width:200px; background:cyan; font-size:18px; font-family:times new roman"></div></a>
+	<div id="bottom">
+	<ul>
+		<li><a href="pro.html">Home</a></li></u>
+		<li><a href="Products.html">Products</a></</li>
+		<li><a href="Gallery.html">Gallery</a></</li>
+		<li><a href="About.html">About</a></</li>
+		<li><a href="Contact.html">Contact</a></</li>
+		<li><a href="Order now.html">Order</a></</li>
+	</ul><br><p style="font-size:18px; margin-left:590px; font-family:forte">&copy All Rights Reserved</p>
+	<p style="margin-left:10px; font-size:18px; font-family:forte">Designed by: Ash_.06ix & Muniy.tx</p>
+	</div>
+	</div>
+
+</body>
+</html>

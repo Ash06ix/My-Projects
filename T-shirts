@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>T-shirts</title>
+	</head>
+	<body>
+	<div class="contact-form">
+		<form>
+			<label for="size"> Choose size: </label>
+			<select id="size">
+				<option value="size"> Select size: </option>
+				<option value="Small"> Small </option>
+				<option value="Medium"> Medium </option>
+				<option value="Large"> Large </option>
+				<option value="XL"> XL </option>
+				<option value="XXL"> XXL </option>
+				<option value="XXXL"> XXXL </option>
+			</select>
+			<input type="submit" value="Submit">
+		</form>
+	</body>
