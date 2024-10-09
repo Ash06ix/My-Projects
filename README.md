@@ -1,0 +1,1 @@
+This is a simple online website project for buying clothes made easier with the most reliable services and also cheaper prices for merchandise. It is also involved in other activities, like helping those in need by donating some of the batches produced.
